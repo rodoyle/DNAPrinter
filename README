@@ -1,0 +1,15 @@
+The ultimate goal of this project is to design the software components
+required to design DNA constructs and then parse them for automated synthesis.
+
+More information will be added.
+
+Priorities:
+
+1) Learn/Practice coding
+2) Develop "DNA feature" data structure, automatically build DNAfeature DB from 
+online reposistories (BB foundation, Genbank reference sequenes, etc)
+3) Import and Parse DNA sequences, annotate using DNA feature Database. Develop
+DNAFragment and DNA Construct data structures
+4) Develop "Compiler" for synthesis with oligo synthesizers
+
+5) Experiment with github as a way to do version control on DNA sequence files.
